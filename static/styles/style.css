@@ -1,5 +1,5 @@
 :root {
-    --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    --body-bg: linear-gradient(to right, #000, #111);
     --msger-bg: #fff;
     --border: 2px solid #ddd;
     --left-msg-bg: #ececec;
@@ -148,5 +148,5 @@
   
   .msger-chat {
     background-color: #fcfcfe;
-    background-image: url("test.jpg")
+    background-image: url("border.png")
   }
